@@ -10,3 +10,7 @@ wheels/
 .venv
 .ipynb_checkpoints
 .python-version
+
+#other peoples stuff
+.DS_Store
+.vscode
